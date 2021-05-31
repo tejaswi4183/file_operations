@@ -10,3 +10,5 @@ chmod +x index.sh
 
 exit
 
+#using file_operations command to perform the operations
+
